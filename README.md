@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast, programmer, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Let's Connect!
-- 💼 www.linkedin.com/in/reddy-manjunath-aab5b1297
-- 💬 Feel free to reach out for collaborations, questions, or just to say hi!
+- 💼 **Linkedin**: www.linkedin.com/in/reddy-manjunath-aab5b1297
+- 💬 **Email**:manjukannayya@gmail.com
   
 ## 🙏 Thank You!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ1cnVtM2xydXV1aWdlcDl6bXJqMWxqYm91MmFiaHB4MmxoMGdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp0V5L6COAhv9VCT2S/giphy.webp" width="120px">
