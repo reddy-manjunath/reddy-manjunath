@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast, programmer, and 
   <img src="https://media.giphy.com/media/UOA7c30OGV7jgBye3U/giphy.gif?cid=790b7611eib376msxmyx93x9079j432qikixvofsf7fy2i7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px">
   
 ## 🔥 What I'm Working On
-- 🔧 Strengthening my knowledge in **Data Science** through projects.
+- 🔧 Strengthening my knowledge in **Data Science and Machine Learning** through projects.
 - 📖 Learning new technologies and expanding my skill set.
 - 🌍 Contributing to community projects, including past work as an advertiser for the Indian Red Cross Society.
 
