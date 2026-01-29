@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast, programmer, and 
 - 🌟 I love solving real-world problems using data and continuously improving my coding skills.
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611ah9pa1h1t261bfrlg93x1trqbt2gar1j867kwpjj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px">
 - 🏋️ **Fitness Enthusiast**: Working out regularly to build muscle and stay healthy.  
-  <img src="https://media.giphy.com/media/UOA7c30OGV7jgBye3U/giphy.gif?cid=790b7611eib376msxmyx93x9079j432qikixvofsf7fy2i7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px">
   
 ## 🔥 What I'm Working On
 - 🔧 Strengthening my knowledge in **Data Science and Machine Learning** through projects.
